@@ -31,3 +31,7 @@ Machine Learning course material
 - Clusterization: K-Means clusterization, PCA
 - Neural networks
 - State-space dynamic model (Kalman filter and beyond)
+
+## References:
+- G. James, D. Witten, T. Hastie, R. Tibshirani 'An Introduction to Statistical Learning (with Applications in R)'
+- S. Raschka 'Python Machine Learning'
