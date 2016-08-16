@@ -33,5 +33,7 @@ Machine Learning course material
 - State-space dynamic model (Kalman filter and beyond)
 
 ## References:
-- G. James, D. Witten, T. Hastie, R. Tibshirani 'An Introduction to Statistical Learning (with Applications in R)'
-- S. Raschka 'Python Machine Learning'
+- G. James, D. Witten, T. Hastie, R. Tibshirani An Introduction to Statistical Learning (with Applications in R)
+- T. Hastie, R. Tibshirani, J. Friedman The Elements of Statistical Learning
+- S. Haykin Neural Networks and Machine Learning (3d edition)
+- S. Raschka Python Machine Learning
