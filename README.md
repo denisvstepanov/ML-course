@@ -14,6 +14,14 @@ Machine Learning course material
   - *Finding out dependent variables*
 - IMDb
   - Classification task (Logistic regression, ANN)
+## External data sets
+- Tree trunks 
+  - Purpose: Introductory example for linear models
+  - Task: compare functional link between trunk volume and statistical one
+  - Link: http://treephys.oxfordjournals.org/content/early/2013/01/15/treephys.tps127.full
+  - Article: Relationships of tree height and diameter at breast height revisited: analyses of stem growth using 20-year data of an even-aged Chamaecyparis obtusa stand
+  - Authors: Akihiro Sumida1, Tomiyasu Miyaura, Hitoshi Torii
+  - Data set in csv file
 
 ## Themes to cover:
 - Statistical learning: supervized/unsupervized
