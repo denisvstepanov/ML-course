@@ -6,14 +6,14 @@ Machine Learning course material
 
 ## Data sets
 - Iris, Breast cancer dataset
-- - Classification task (Logistic regression, SVM, Kernel SVM, Regression tree)
-- - Clusterization task (PCA, *Kernel* k-means, *SOM*)
+  - Classification task (Logistic regression, SVM, Kernel SVM, Regression tree)
+  - Clusterization task (PCA, *Kernel* k-means, *SOM*)
 - Housing dataset, crime dataset 
-- - Regression (Linear models, Regression tree, Random forest regression)
-- - Clusterization task
-- - *Finding out dependent variables*
+  - Regression (Linear models, Regression tree, Random forest regression)
+  - Clusterization task
+  - *Finding out dependent variables*
 - IMDb
-- - Classification task (Logistic regression, ANN)
+  - Classification task (Logistic regression, ANN)
 
 ## Themes to cover:
 - Statistical learning: supervized/unsupervized
