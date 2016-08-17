@@ -14,6 +14,7 @@ Machine Learning course material
   - *Finding out dependent variables*
 - IMDb
   - Classification task (Logistic regression, ANN)
+
 ## External data sets
 - Tree trunks 
   - Purpose: Introductory example for linear models
